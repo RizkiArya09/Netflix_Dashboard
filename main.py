@@ -100,7 +100,7 @@ st.sidebar.write("# Filter Data")
 # )
 
 # Title
-st.image("logo_netflix.png", use_column_width=False, width=200)  # Add Netflix logo 
+# st.image("logo_netflix.png", use_column_width=False, width=200)  # Add Netflix logo 
 st.title("Netflix Dataset Analysis")
 st.write("Jelajahi kumpulan data Netflix secara interaktif untuk mengungkap tren dan wawasan.")
 
